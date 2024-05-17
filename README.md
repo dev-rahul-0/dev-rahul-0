@@ -9,7 +9,7 @@ Passionate Flutter developer adept at crafting sleek and dynamic cross-platform 
 <br>
  <p align="center"><img src="https://komarev.com/ghpvc/?username=dev-rahul-0&style=for-the-badge&color=blueviolet" alt="dev-rahul-0" /> </p
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>🌱 I’m currently learning Android<br>💬 Ask me about Flutter | Dart<br>⚡ Fact: Eternal technology lover!<br>📫 How to reach me dev.rahul.042002@gmail.com
+🔭 I’m currently working on Flutter<br>🌱 I’m currently learning Android<br>💬 Ask me about Flutter | Dart<br>⚡ Fact: Eternal technology lover!<br>📫 How to reach me dev.rahul042002@gmail.com
 
 
 ## 🌐 Socials:
